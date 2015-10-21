@@ -1,0 +1,519 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		172F5F4B1BD7603700775358 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 172F5F4A1BD7603700775358 /* main.m */; };
+		172F5F4E1BD7603700775358 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 172F5F4D1BD7603700775358 /* AppDelegate.m */; };
+		172F5F511BD7603700775358 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 172F5F501BD7603700775358 /* ViewController.m */; };
+		172F5F541BD7603700775358 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 172F5F521BD7603700775358 /* Main.storyboard */; };
+		172F5F561BD7603700775358 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 172F5F551BD7603700775358 /* Assets.xcassets */; };
+		172F5F591BD7603700775358 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 172F5F571BD7603700775358 /* LaunchScreen.storyboard */; };
+		172F5F641BD7603700775358 /* Unibox_iOSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 172F5F631BD7603700775358 /* Unibox_iOSTests.m */; };
+		172F5F6F1BD7603700775358 /* Unibox_iOSUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 172F5F6E1BD7603700775358 /* Unibox_iOSUITests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		172F5F601BD7603700775358 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 172F5F3E1BD7603700775358 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 172F5F451BD7603700775358;
+			remoteInfo = Unibox_iOS;
+		};
+		172F5F6B1BD7603700775358 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 172F5F3E1BD7603700775358 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 172F5F451BD7603700775358;
+			remoteInfo = Unibox_iOS;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		172F5F461BD7603700775358 /* Unibox_iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Unibox_iOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		172F5F4A1BD7603700775358 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		172F5F4C1BD7603700775358 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		172F5F4D1BD7603700775358 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		172F5F4F1BD7603700775358 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		172F5F501BD7603700775358 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		172F5F531BD7603700775358 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		172F5F551BD7603700775358 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		172F5F581BD7603700775358 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		172F5F5A1BD7603700775358 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		172F5F5F1BD7603700775358 /* Unibox_iOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Unibox_iOSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		172F5F631BD7603700775358 /* Unibox_iOSTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Unibox_iOSTests.m; sourceTree = "<group>"; };
+		172F5F651BD7603700775358 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		172F5F6A1BD7603700775358 /* Unibox_iOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Unibox_iOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		172F5F6E1BD7603700775358 /* Unibox_iOSUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Unibox_iOSUITests.m; sourceTree = "<group>"; };
+		172F5F701BD7603700775358 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		172F5F431BD7603700775358 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		172F5F5C1BD7603700775358 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		172F5F671BD7603700775358 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		172F5F3D1BD7603700775358 = {
+			isa = PBXGroup;
+			children = (
+				172F5F481BD7603700775358 /* Unibox_iOS */,
+				172F5F621BD7603700775358 /* Unibox_iOSTests */,
+				172F5F6D1BD7603700775358 /* Unibox_iOSUITests */,
+				172F5F471BD7603700775358 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		172F5F471BD7603700775358 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				172F5F461BD7603700775358 /* Unibox_iOS.app */,
+				172F5F5F1BD7603700775358 /* Unibox_iOSTests.xctest */,
+				172F5F6A1BD7603700775358 /* Unibox_iOSUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		172F5F481BD7603700775358 /* Unibox_iOS */ = {
+			isa = PBXGroup;
+			children = (
+				172F5F4C1BD7603700775358 /* AppDelegate.h */,
+				172F5F4D1BD7603700775358 /* AppDelegate.m */,
+				172F5F4F1BD7603700775358 /* ViewController.h */,
+				172F5F501BD7603700775358 /* ViewController.m */,
+				172F5F521BD7603700775358 /* Main.storyboard */,
+				172F5F551BD7603700775358 /* Assets.xcassets */,
+				172F5F571BD7603700775358 /* LaunchScreen.storyboard */,
+				172F5F5A1BD7603700775358 /* Info.plist */,
+				172F5F491BD7603700775358 /* Supporting Files */,
+			);
+			path = Unibox_iOS;
+			sourceTree = "<group>";
+		};
+		172F5F491BD7603700775358 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				172F5F4A1BD7603700775358 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		172F5F621BD7603700775358 /* Unibox_iOSTests */ = {
+			isa = PBXGroup;
+			children = (
+				172F5F631BD7603700775358 /* Unibox_iOSTests.m */,
+				172F5F651BD7603700775358 /* Info.plist */,
+			);
+			path = Unibox_iOSTests;
+			sourceTree = "<group>";
+		};
+		172F5F6D1BD7603700775358 /* Unibox_iOSUITests */ = {
+			isa = PBXGroup;
+			children = (
+				172F5F6E1BD7603700775358 /* Unibox_iOSUITests.m */,
+				172F5F701BD7603700775358 /* Info.plist */,
+			);
+			path = Unibox_iOSUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		172F5F451BD7603700775358 /* Unibox_iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 172F5F731BD7603700775358 /* Build configuration list for PBXNativeTarget "Unibox_iOS" */;
+			buildPhases = (
+				172F5F421BD7603700775358 /* Sources */,
+				172F5F431BD7603700775358 /* Frameworks */,
+				172F5F441BD7603700775358 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Unibox_iOS;
+			productName = Unibox_iOS;
+			productReference = 172F5F461BD7603700775358 /* Unibox_iOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+		172F5F5E1BD7603700775358 /* Unibox_iOSTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 172F5F761BD7603700775358 /* Build configuration list for PBXNativeTarget "Unibox_iOSTests" */;
+			buildPhases = (
+				172F5F5B1BD7603700775358 /* Sources */,
+				172F5F5C1BD7603700775358 /* Frameworks */,
+				172F5F5D1BD7603700775358 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				172F5F611BD7603700775358 /* PBXTargetDependency */,
+			);
+			name = Unibox_iOSTests;
+			productName = Unibox_iOSTests;
+			productReference = 172F5F5F1BD7603700775358 /* Unibox_iOSTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		172F5F691BD7603700775358 /* Unibox_iOSUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 172F5F791BD7603700775358 /* Build configuration list for PBXNativeTarget "Unibox_iOSUITests" */;
+			buildPhases = (
+				172F5F661BD7603700775358 /* Sources */,
+				172F5F671BD7603700775358 /* Frameworks */,
+				172F5F681BD7603700775358 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				172F5F6C1BD7603700775358 /* PBXTargetDependency */,
+			);
+			name = Unibox_iOSUITests;
+			productName = Unibox_iOSUITests;
+			productReference = 172F5F6A1BD7603700775358 /* Unibox_iOSUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		172F5F3E1BD7603700775358 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = "刘羽";
+				TargetAttributes = {
+					172F5F451BD7603700775358 = {
+						CreatedOnToolsVersion = 7.0.1;
+					};
+					172F5F5E1BD7603700775358 = {
+						CreatedOnToolsVersion = 7.0.1;
+						TestTargetID = 172F5F451BD7603700775358;
+					};
+					172F5F691BD7603700775358 = {
+						CreatedOnToolsVersion = 7.0.1;
+						TestTargetID = 172F5F451BD7603700775358;
+					};
+				};
+			};
+			buildConfigurationList = 172F5F411BD7603700775358 /* Build configuration list for PBXProject "Unibox_iOS" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 172F5F3D1BD7603700775358;
+			productRefGroup = 172F5F471BD7603700775358 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				172F5F451BD7603700775358 /* Unibox_iOS */,
+				172F5F5E1BD7603700775358 /* Unibox_iOSTests */,
+				172F5F691BD7603700775358 /* Unibox_iOSUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		172F5F441BD7603700775358 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				172F5F591BD7603700775358 /* LaunchScreen.storyboard in Resources */,
+				172F5F561BD7603700775358 /* Assets.xcassets in Resources */,
+				172F5F541BD7603700775358 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		172F5F5D1BD7603700775358 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		172F5F681BD7603700775358 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		172F5F421BD7603700775358 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				172F5F511BD7603700775358 /* ViewController.m in Sources */,
+				172F5F4E1BD7603700775358 /* AppDelegate.m in Sources */,
+				172F5F4B1BD7603700775358 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		172F5F5B1BD7603700775358 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				172F5F641BD7603700775358 /* Unibox_iOSTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		172F5F661BD7603700775358 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				172F5F6F1BD7603700775358 /* Unibox_iOSUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		172F5F611BD7603700775358 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 172F5F451BD7603700775358 /* Unibox_iOS */;
+			targetProxy = 172F5F601BD7603700775358 /* PBXContainerItemProxy */;
+		};
+		172F5F6C1BD7603700775358 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 172F5F451BD7603700775358 /* Unibox_iOS */;
+			targetProxy = 172F5F6B1BD7603700775358 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		172F5F521BD7603700775358 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				172F5F531BD7603700775358 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		172F5F571BD7603700775358 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				172F5F581BD7603700775358 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		172F5F711BD7603700775358 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		172F5F721BD7603700775358 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		172F5F741BD7603700775358 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Unibox_iOS/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Unibox.Unibox-iOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		172F5F751BD7603700775358 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Unibox_iOS/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Unibox.Unibox-iOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		172F5F771BD7603700775358 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = Unibox_iOSTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Unibox.Unibox-iOSTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Unibox_iOS.app/Unibox_iOS";
+			};
+			name = Debug;
+		};
+		172F5F781BD7603700775358 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = Unibox_iOSTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Unibox.Unibox-iOSTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Unibox_iOS.app/Unibox_iOS";
+			};
+			name = Release;
+		};
+		172F5F7A1BD7603700775358 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = Unibox_iOSUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Unibox.Unibox-iOSUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Unibox_iOS;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		172F5F7B1BD7603700775358 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = Unibox_iOSUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Unibox.Unibox-iOSUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Unibox_iOS;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		172F5F411BD7603700775358 /* Build configuration list for PBXProject "Unibox_iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				172F5F711BD7603700775358 /* Debug */,
+				172F5F721BD7603700775358 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		172F5F731BD7603700775358 /* Build configuration list for PBXNativeTarget "Unibox_iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				172F5F741BD7603700775358 /* Debug */,
+				172F5F751BD7603700775358 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		172F5F761BD7603700775358 /* Build configuration list for PBXNativeTarget "Unibox_iOSTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				172F5F771BD7603700775358 /* Debug */,
+				172F5F781BD7603700775358 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		172F5F791BD7603700775358 /* Build configuration list for PBXNativeTarget "Unibox_iOSUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				172F5F7A1BD7603700775358 /* Debug */,
+				172F5F7B1BD7603700775358 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 172F5F3E1BD7603700775358 /* Project object */;
+}

@@ -1,0 +1,14 @@
+//
+//  ScanResultController.h
+//  Unibox_iOS
+//
+//  Created by 刘羽 on 15/12/14.
+//  Copyright © 2015年 刘羽. All rights reserved.
+//
+
+#import "BasicViewController.h"
+
+@interface ScanResultController : BasicViewController
+@property (nonatomic, assign) int type;
+@property (nonatomic, strong) NSString *url;
+@end

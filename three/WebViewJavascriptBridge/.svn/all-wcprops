@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/WebViewJavascriptBridge
+END
+WebViewJavascriptBridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/WebViewJavascriptBridge/WebViewJavascriptBridge.h
+END
+WebViewJavascriptBridgeBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/WebViewJavascriptBridge/WebViewJavascriptBridgeBase.m
+END
+WKWebViewJavascriptBridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/WebViewJavascriptBridge/WKWebViewJavascriptBridge.h
+END
+WebViewJavascriptBridge.js.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/WebViewJavascriptBridge/WebViewJavascriptBridge.js.txt
+END
+WebViewJavascriptBridge.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/WebViewJavascriptBridge/WebViewJavascriptBridge.m
+END
+WKWebViewJavascriptBridge.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/WebViewJavascriptBridge/WKWebViewJavascriptBridge.m
+END
+WebViewJavascriptBridgeBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/WebViewJavascriptBridge/WebViewJavascriptBridgeBase.h
+END

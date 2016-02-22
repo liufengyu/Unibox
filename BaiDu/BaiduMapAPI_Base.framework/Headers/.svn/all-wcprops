@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Base.framework/Headers
+END
+BMKTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Base.framework/Headers/BMKTypes.h
+END
+BMKVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Base.framework/Headers/BMKVersion.h
+END
+BMKUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Base.framework/Headers/BMKUserLocation.h
+END
+BMKGeneralDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Base.framework/Headers/BMKGeneralDelegate.h
+END
+BMKMapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Base.framework/Headers/BMKMapManager.h
+END
+BMKBaseComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Base.framework/Headers/BMKBaseComponent.h
+END

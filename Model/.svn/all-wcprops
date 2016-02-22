@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model
+END
+BillDetailModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/BillDetailModel.m
+END
+ActAdmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/ActAdmodel.h
+END
+ActModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/ActModel.m
+END
+MovieModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/MovieModel.h
+END
+ActAdmodel.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/ActAdmodel.m
+END
+NewsAdModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/NewsAdModel.h
+END
+MovieModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/MovieModel.m
+END
+RentalModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/RentalModel.h
+END
+NewsAdModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/NewsAdModel.m
+END
+HotNewsModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/HotNewsModel.h
+END
+RentalModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/RentalModel.m
+END
+HotNewsModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/HotNewsModel.m
+END
+IntersetModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/IntersetModel.h
+END
+BillInfoModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/BillInfoModel.h
+END
+IntersetModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/IntersetModel.m
+END
+MovieDetailModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/MovieDetailModel.h
+END
+CouponModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/CouponModel.h
+END
+BillInfoModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/BillInfoModel.m
+END
+PrevueFavModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/PrevueFavModel.h
+END
+MovieConfigModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/MovieConfigModel.h
+END
+PrevueModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/PrevueModel.h
+END
+IndexMovieModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/IndexMovieModel.h
+END
+MovieDetailModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/MovieDetailModel.m
+END
+CouponModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/CouponModel.m
+END
+PrevueFavModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/PrevueFavModel.m
+END
+RentalDetailModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/RentalDetailModel.h
+END
+NewsFavModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/NewsFavModel.h
+END
+MovieConfigModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/MovieConfigModel.m
+END
+PrevueModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/PrevueModel.m
+END
+IndexMovieModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/IndexMovieModel.m
+END
+FavModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/FavModel.h
+END
+NewsModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/NewsModel.h
+END
+RentalDetailModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/RentalDetailModel.m
+END
+NewsFavModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/NewsFavModel.m
+END
+AdListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/AdListModel.h
+END
+KioskModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/KioskModel.h
+END
+FavModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/FavModel.m
+END
+BasicModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/BasicModel.h
+END
+NewsModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/NewsModel.m
+END
+BillModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/BillModel.h
+END
+AdListModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/AdListModel.m
+END
+KioskModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/KioskModel.m
+END
+BasicModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/BasicModel.m
+END
+BillModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/BillModel.m
+END
+CoinModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/CoinModel.h
+END
+CartModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/CartModel.h
+END
+UserInfoModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/UserInfoModel.h
+END
+AccountModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/AccountModel.h
+END
+CoinModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/CoinModel.m
+END
+CartModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/CartModel.m
+END
+UserInfoModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/UserInfoModel.m
+END
+AccountModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/AccountModel.m
+END
+RankConfModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/RankConfModel.h
+END
+CommentModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/CommentModel.h
+END
+BillDetailModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/BillDetailModel.h
+END
+RankConfModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/RankConfModel.m
+END
+CommentModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/CommentModel.m
+END
+ActModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/Model/ActModel.h
+END

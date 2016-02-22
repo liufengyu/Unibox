@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers
+END
+BMKSearchBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKSearchBase.h
+END
+BMKShareUrlSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKShareUrlSearchOption.h
+END
+BMKPoiSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKPoiSearchOption.h
+END
+BMKSuggestionSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKSuggestionSearchOption.h
+END
+BMKGeocodeType.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKGeocodeType.h
+END
+BMKShareURLSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKShareURLSearch.h
+END
+BMKSearchVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKSearchVersion.h
+END
+BMKRouteSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKRouteSearchOption.h
+END
+BMKPoiSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKPoiSearch.h
+END
+BMKSuggestionSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKSuggestionSearch.h
+END
+BMKPoiSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKPoiSearchType.h
+END
+BMKBusLineSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKBusLineSearchOption.h
+END
+BMKRouteSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKRouteSearch.h
+END
+BMKGeocodeSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKGeocodeSearchOption.h
+END
+BMKRouteSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKRouteSearchType.h
+END
+BMKBusLineSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKBusLineSearch.h
+END
+BMKSearchComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKSearchComponent.h
+END
+BMKGeocodeSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Search.framework/Headers/BMKGeocodeSearch.h
+END

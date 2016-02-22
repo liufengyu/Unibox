@@ -1,0 +1,6 @@
+platform :ios, '8.0'
+pod 'BlocksKit', '~> 2.2.5'
+pod 'Masonry', '~> 0.6.4'
+pod 'MJRefresh', '~> 3.1.0'
+pod 'JGProgressHUD', '~> 1.3.1'
+pod 'IQKeyboardManager', '~> 4.0.0'

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking
+END
+AFHTTPSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFHTTPSessionManager.m
+END
+AFURLResponseSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFURLResponseSerialization.m
+END
+AFSecurityPolicy.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFSecurityPolicy.h
+END
+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFNetworking.h
+END
+AFSecurityPolicy.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFSecurityPolicy.m
+END
+AFURLSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFURLSessionManager.h
+END
+AFURLConnectionOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFURLConnectionOperation.h
+END
+AFHTTPRequestOperationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFHTTPRequestOperationManager.h
+END
+AFNetworkReachabilityManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFNetworkReachabilityManager.h
+END
+AFURLSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFURLSessionManager.m
+END
+AFURLConnectionOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFURLConnectionOperation.m
+END
+AFURLRequestSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFURLRequestSerialization.h
+END
+AFHTTPRequestOperationManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFHTTPRequestOperationManager.m
+END
+AFHTTPRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFHTTPRequestOperation.h
+END
+AFNetworkReachabilityManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFNetworkReachabilityManager.m
+END
+AFURLRequestSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFURLRequestSerialization.m
+END
+AFHTTPSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFHTTPSessionManager.h
+END
+AFHTTPRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFHTTPRequestOperation.m
+END
+AFURLResponseSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/three/AFNetworking/AFURLResponseSerialization.h
+END

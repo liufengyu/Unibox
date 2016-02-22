@@ -1,0 +1,77 @@
+10
+
+dir
+0
+http://liuyu@172.16.0.250:81/svn/unibox/trunk/src/ios/Unibox_iOS/Pods/Pods.xcodeproj/xcuserdata/liuyu.xcuserdatad/xcschemes
+http://liuyu@172.16.0.250:81/svn/unibox
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+602e15f0-e372-b442-8c8b-6b10f3433c72
+
+BlocksKit.xcscheme
+file
+
+
+
+add
+
+IQKeyboardManager.xcscheme
+file
+
+
+
+add
+
+MJRefresh.xcscheme
+file
+
+
+
+add
+
+Pods.xcscheme
+file
+
+
+
+add
+
+JGProgressHUD.xcscheme
+file
+
+
+
+add
+
+Masonry.xcscheme
+file
+
+
+
+add
+
+xcschememanagement.plist
+file
+
+
+
+add
+

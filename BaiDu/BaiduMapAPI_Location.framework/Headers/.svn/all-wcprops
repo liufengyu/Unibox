@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Location.framework/Headers
+END
+BMKLocationService.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Location.framework/Headers/BMKLocationService.h
+END
+BMKLocationComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Location.framework/Headers/BMKLocationComponent.h
+END
+BMKLocationVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/unibox/!svn/ver/1928/trunk/src/ios/Unibox_iOS/BaiDu/BaiduMapAPI_Location.framework/Headers/BMKLocationVersion.h
+END

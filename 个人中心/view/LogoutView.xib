@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15D21" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="LogoutView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="190"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="img-bg" translatesAutoresizingMaskIntoConstraints="NO" id="LZ2-DG-eW7">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="190"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pBy-oD-rzj">
+                    <rect key="frame" x="162" y="70" width="50" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="KG4-5h-U74"/>
+                        <constraint firstAttribute="width" constant="50" id="KO0-2j-vyE"/>
+                    </constraints>
+                    <state key="normal" backgroundImage="icon-weidenglu"/>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lmx-gp-U9r">
+                    <rect key="frame" x="161" y="135" width="52" height="28"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <state key="normal" title="点击登录">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="pBy-oD-rzj" firstAttribute="centerX" secondItem="LZ2-DG-eW7" secondAttribute="centerX" id="BCr-hL-fyg"/>
+                <constraint firstAttribute="bottom" secondItem="LZ2-DG-eW7" secondAttribute="bottom" id="BLY-0T-dsz"/>
+                <constraint firstItem="LZ2-DG-eW7" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="ICc-fx-UHU"/>
+                <constraint firstAttribute="trailing" secondItem="LZ2-DG-eW7" secondAttribute="trailing" id="J6b-gG-67y"/>
+                <constraint firstItem="lmx-gp-U9r" firstAttribute="centerX" secondItem="pBy-oD-rzj" secondAttribute="centerX" id="WCX-iw-Mft"/>
+                <constraint firstItem="pBy-oD-rzj" firstAttribute="centerY" secondItem="LZ2-DG-eW7" secondAttribute="centerY" id="Wlm-rD-YKQ"/>
+                <constraint firstItem="LZ2-DG-eW7" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="vu9-6f-3Qb"/>
+                <constraint firstItem="lmx-gp-U9r" firstAttribute="top" secondItem="pBy-oD-rzj" secondAttribute="bottom" constant="15" id="ybi-sh-Dh3"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="LoginButton" destination="lmx-gp-U9r" id="xPp-Nm-gJf"/>
+                <outlet property="TXButton" destination="pBy-oD-rzj" id="JkI-qJ-TrC"/>
+            </connections>
+            <point key="canvasLocation" x="81.5" y="93"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="icon-weidenglu" width="51" height="51"/>
+        <image name="img-bg" width="360" height="235"/>
+    </resources>
+</document>

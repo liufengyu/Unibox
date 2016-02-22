@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>全部</string>
+		<string>动作</string>
+		<string>剧情</string>
+		<string>喜剧</string>
+		<string>爱情</string>
+		<string>恐怖</string>
+		<string>科幻</string>
+	</array>
+	<array>
+		<string>全部</string>
+		<string>大陆</string>
+		<string>港台</string>
+		<string>美国</string>
+		<string>英国</string>
+		<string>韩国</string>
+		<string>俄罗斯</string>
+		<string>日本</string>
+	</array>
+	<array>
+		<string>全部</string>
+		<string>2015年</string>
+		<string>2014年</string>
+		<string>2013年</string>
+		<string>2012年</string>
+		<string>2011年</string>
+		<string>2010年</string>
+	</array>
+	<array>
+		<string>全部</string>
+		<string>01月</string>
+		<string>02月</string>
+		<string>03月</string>
+		<string>04月</string>
+		<string>05月</string>
+		<string>06月</string>
+		<string>07月</string>
+		<string>08月</string>
+		<string>09月</string>
+		<string>10月</string>
+		<string>11月</string>
+		<string>12月</string>
+	</array>
+</array>
+</plist>

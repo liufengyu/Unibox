@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>img</key>
+			<string>icon-zulingji</string>
+			<key>title</key>
+			<string>我的租赁机</string>
+		</dict>
+		<dict>
+			<key>img</key>
+			<string>icon-dingdan</string>
+			<key>title</key>
+			<string>我的订单</string>
+		</dict>
+		<dict>
+			<key>img</key>
+			<string>icon-duizhangdan</string>
+			<key>title</key>
+			<string>对账单</string>
+		</dict>
+		<dict>
+			<key>img</key>
+			<string>icon-chongzhi</string>
+			<key>title</key>
+			<string>充值</string>
+		</dict>
+		<dict>
+			<key>img</key>
+			<string>icon-quxian</string>
+			<key>title</key>
+			<string>取现</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>img</key>
+			<string>icon-tequan </string>
+			<key>title</key>
+			<string>会员特权</string>
+		</dict>
+		<dict>
+			<key>img</key>
+			<string>icon-zulingxuzhi</string>
+			<key>title</key>
+			<string>租赁须知</string>
+		</dict>
+		<dict>
+			<key>img</key>
+			<string>icon-shezhi</string>
+			<key>title</key>
+			<string>设置</string>
+		</dict>
+	</array>
+</array>
+</plist>
